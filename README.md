@@ -71,7 +71,7 @@
         <td align="center" width="50%">
             <strong>Client Dashboard</strong><br><br>
             <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
-        </td>
+        </td> 
     </tr>
 </table>
 
