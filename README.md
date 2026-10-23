@@ -60,7 +60,7 @@
         </td>
         <td align="center" width="50%">
             <strong>Marketing Dashboard</strong><br><br>
-            <img src="screenshots/Maketing%20panel%20Dashboard.png" alt="Marketing Dashboard" width="350"> 
+            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" width="350">
         </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@
         <td align="center" width="50%">
             <strong>Client Dashboard</strong><br><br>
             <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
-        </td> 
+        </td>
     </tr>
 </table>
 
