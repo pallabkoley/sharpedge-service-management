@@ -40,7 +40,7 @@
 
 <p>The <strong>Admin Panel</strong> oversees overall operations, while the <strong>Marketing Panel</strong> manages client coordination and order follow-ups. The <strong>Back Office</strong> handles accounting-related work and financial reports. Clients use their dedicated panel to track services, access invoices, submit documents, and raise support requests.</p>
 
-<h3>Application Screenshots</h3>
+<h3>System Preview</h3>
 
 <table>
     <tr>
