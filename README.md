@@ -1,59 +1,214 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+SharpEdge Service Management Platform
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+A Laravel-Based Business Operations, Service Management & Accounting Platform
 
-## About Laravel
+SharpEdge Service Management is a business application designed to manage service orders, client relationships, payment workflows, document verification, internal tasks, and back-office accounting operations through dedicated role-based panels.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Application Panels
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+1. Admin Panel
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Centralized administration for managing services, clients, staff, orders, payments, and operational workflows.
 
-## Learning Laravel
+Key Features
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+Dashboard & Analytics — Business overview, service statistics, client metrics, and revenue charts.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Service Configuration — Manage service categories, service masters, document requirements, and service-related settings.
 
-## Laravel Sponsors
+Client Management — Maintain client records, client master profiles, bank accounts, cases, compliance records, turnover data, portal credentials, and custom fields.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Order Management — Create and manage service orders, review order details, and handle invoice-related operations.
 
-### Premium Partners
+Payment Management — Review payment submissions, manage receipts, track payment status, and handle payment follow-ups.
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+Service Selling Analysis — Analyze order volumes, revenue, and service-wise performance.
 
-## Contributing
+Document Verification — Review, approve, or reject submitted documents, including bulk verification actions.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Task Management — Assign tasks and verify submitted work.
 
-## Code of Conduct
+Workflow Monitoring — Review workflow health and recalculate order workflows when required.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Staff Operations — Manage attendance, leave approvals, leave policies, holidays, and notices.
 
-## Security Vulnerabilities
+Support & Integrations — Manage support tickets and partner website records.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+2. Marketing Panel
 
-## License
+A dedicated workspace for client coordination, service orders, payments, meetings, and follow-ups.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Key Features
+
+Client Management — Create, update, and maintain client records.
+
+Service Order Processing — Create orders through a multi-step workflow, validate coupons, calculate order amounts, and track due payments.
+
+Payment Operations — Record and manage payments, monitor payment status, and access invoice and payment-related information.
+
+Payment Follow-ups — Maintain follow-up records and review follow-up history.
+
+Meeting Management — Schedule meetings and manage meeting requests.
+
+Document Handling — Upload, view, and manage client and order-related documents.
+
+Support Tickets — Create tickets, view ticket details, reply, and update ticket status.
+
+Employee Operations — Manage leave requests, holiday calendars, and notices.
+
+Dashboard Analytics — View client statistics, invoice summaries, recent activities, and chart data.
+
+3. Back Office Panel
+
+A dedicated operational workspace for task execution, document management, client coordination, payment follow-ups, and accounting computations.
+
+Key Features
+
+Accounting & Financial Computations
+
+Computation Management — Create, edit, save, submit, and manage financial computations.
+
+Balance Sheet — Manage balance-sheet entries, update individual items, finalize records, and export PDF reports.
+
+Profit & Loss — Maintain profit-and-loss data, update categories and rows, and finalize computations.
+
+Trading Account — Manage trading-account entries and finalize records.
+
+Appropriation — Save drafts, finalize appropriation records, and export PDF output.
+
+Reconciliation Modules — Work with debtor, creditor, bank, sales, purchase, and asset reconciliations.
+
+Debit/Credit Note Register — Manage registers, update records, maintain breakup details, and finalize entries.
+
+Financial Reports — Access profit-and-loss and balance-sheet reports.
+
+Operations & Document Workflows
+
+Task Management — View assigned tasks, start work, mark waiting status, submit completed work, add remarks, and communicate through task messages.
+
+Task Documents — Upload, download, and replace task-related documents.
+
+Client Documents — View, upload, and manage client documents.
+
+Payment Follow-ups — Record and review payment follow-up information and history.
+
+Support Tickets — View tickets, reply to conversations, and update pending or resolved status.
+
+Employee Operations — Clock in/out, submit leave requests, view the holiday calendar, and access notices.
+
+Partner Websites — Access partner website records.
+
+4. Client Panel
+
+A client-facing workspace for accessing services, orders, invoices, meetings, and support.
+
+Key Features
+
+Client Dashboard — View order summaries, active orders, pending actions, and payment information.
+
+Order Management — View order listings and individual order details.
+
+Document Uploads — Upload documents associated with orders and view available order documents.
+
+Certificates — Download available service certificates.
+
+Invoice Management — View invoices, preview invoice details, and download invoices.
+
+Meeting Management — View and schedule meetings, update meeting details, submit availability, and request rescheduling.
+
+Support Tickets — Create tickets, reply to conversations, confirm resolution, and reopen tickets when necessary.
+
+Technology Stack
+
+Backend: PHP, Laravel
+
+Frontend: Blade templates, HTML, CSS, JavaScript
+
+Asynchronous Interactions: AJAX-based endpoints
+
+Database: Application-configured database
+
+Architecture: Laravel MVC, route-based controllers, and middleware-protected application areas
+
+Technical Highlights
+
+Dedicated route groups for Admin, Marketing, Back Office, and Client workflows.
+
+Authentication and role-based access restrictions on protected application areas.
+
+CRUD-style operations for client records, services, documents, and operational data.
+
+Payment tracking, invoice handling, and follow-up workflows.
+
+AJAX endpoints for interactive data loading and updates.
+
+PDF export and download functionality for supported financial documents and reports.
+
+Financial reconciliation and computation workflows with draft, save, and finalization operations.
+
+Application Screenshots
+
+Add sanitized screenshots of the following panels to the repository:
+
+Panel
+
+Screenshot
+
+Admin
+
+docs/screenshots/admin-dashboard.png
+
+Service Selling Analysis
+
+docs/screenshots/service-selling-analysis.png
+
+Payment Management
+
+docs/screenshots/payment-management.png
+
+Marketing
+
+docs/screenshots/marketing-dashboard.png
+
+Back Office
+
+docs/screenshots/backoffice-dashboard.png
+
+Client
+
+docs/screenshots/client-dashboard.png
+
+Developer Contribution
+
+Contributed to the development and maintenance of a live business application, working on service management workflows, client and order operations, payment tracking, document handling, role-based application areas, back-office computations, and issue resolution.
+
+Local Development Setup
+
+Clone the repository.
+
+Install PHP dependencies:
+
+composer install
+
+Create a local environment file from .env.example and configure the required environment variables.
+
+Generate the application key:
+
+php artisan key:generate
+
+Configure a local database and run the appropriate migrations only after reviewing the migration files.
+
+Install frontend dependencies and build assets if required by the project:
+
+npm install
+npm run build
+
+Start the local development server:
+
+php artisan serve
+
+Refer to the project's dependency files and configuration for the exact PHP, database, and Node.js requirements.
+
+Security Notice
+
+This repository is intended for code review and professional demonstration. Never commit environment secrets, database credentials, API keys, private documents, or identifiable customer information. Production screenshots should be sanitized before public sharing.
