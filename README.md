@@ -44,33 +44,33 @@
 
 <table>
     <tr>
-        <td align="center">
+        <td align="center" width="50%">
             <strong>Admin Dashboard</strong><br><br>
-            <img src="screenshots/Admin panel Dashboard.png" alt="Admin Dashboard" width="380">
+            <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" width="350">
         </td>
-        <td align="center">
+        <td align="center" width="50%">
             <strong>Admin Service Selling</strong><br><br>
-            <img src="screenshots/Admin panel service selling.png" alt="Admin Service Selling" width="380">
+            <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" width="350">
         </td>
     </tr>
     <tr>
-        <td align="center">
+        <td align="center" width="50%">
             <strong>Admin All Orders</strong><br><br>
-            <img src="screenshots/Admin Panel All orders.png" alt="Admin All Orders" width="380">
+            <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" width="350">
         </td>
-        <td align="center">
+        <td align="center" width="50%">
             <strong>Marketing Dashboard</strong><br><br>
-            <img src="screenshots/marketing-dashboard.png" alt="Marketing Dashboard" width="380">
+            <img src="screenshots/Maketing%20panel%20Dashboard.png" alt="Marketing Dashboard" width="350">
         </td>
-        </tr>
+    </tr>
     <tr>
-        <td align="center">
+        <td align="center" width="50%">
             <strong>Back Office Dashboard</strong><br><br>
-            <img src="screenshots/Backoffice Dashboard.png" alt="Back Office Dashboard" width="380">
+            <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" width="350">
         </td>
-        <td align="center">
+        <td align="center" width="50%">
             <strong>Client Dashboard</strong><br><br>
-            <img src="screenshots/Client Dashboard.png" alt="Client Dashboard" width="380">
+            <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
         </td>
     </tr>
 </table>
