@@ -40,6 +40,26 @@
 
 <p>The <strong>Admin Panel</strong> oversees overall operations, while the <strong>Marketing Panel</strong> manages client coordination and order follow-ups. The <strong>Back Office</strong> handles accounting-related work and financial reports. Clients use their dedicated panel to track services, access invoices, submit documents, and raise support requests.</p>
 
+<h3>Application Screenshots</h3>
+
+<h4>Admin Dashboard</h4>
+<img src="screenshots/Admin panel Dashboard.png" alt="Admin Dashboard" width="100%">
+
+<h4>Admin Service Selling</h4>
+<img src="screenshots/Admin panel service selling.png" alt="Admin Service Selling" width="100%">
+
+<h4>Admin All Orders</h4>
+<img src="screenshots/Admin Panel All orders.png" alt="Admin All Orders" width="100%">
+
+<h4>Marketing Dashboard</h4>
+<img src="screenshots/Maketing panel Dashboard.png" alt="Marketing Dashboard" width="100%">
+
+<h4>Back Office Dashboard</h4>
+<img src="screenshots/Backoffice Dashboard.png" alt="Back Office Dashboard" width="100%">
+
+<h4>Client Dashboard</h4>
+<img src="screenshots/Client Dashboard.png" alt="Client Dashboard" width="100%">
+
 <h3>Tech Stack</h3>
 
 <p><strong>PHP, Laravel, MySQL, Blade, JavaScript, AJAX, HTML, CSS</strong></p>
