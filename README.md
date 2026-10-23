@@ -60,9 +60,9 @@
         </td>
         <td align="center">
             <strong>Marketing Dashboard</strong><br><br>
-            <img src="screenshots/Maketing panel Dashboard.png" alt="Marketing Dashboard" width="380">
+            <img src="screenshots/marketing-dashboard.png" alt="Marketing Dashboard" width="380">
         </td>
-    </tr>
+        </tr>
     <tr>
         <td align="center">
             <strong>Back Office Dashboard</strong><br><br>
