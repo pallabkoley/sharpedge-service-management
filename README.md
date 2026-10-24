@@ -164,5 +164,8 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 
 <hr>
 
+<h2>📌 Project Brochure</h2>
 
-
+<p>
+📑 <strong>Download:</strong> <a href="screenshots/CA-Brochure.pdf" target="_blank">Download CA Firm Brochure (PDF)</a>
+</p>
