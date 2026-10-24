@@ -141,6 +141,16 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
             <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
         </td>
     </tr>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Backoffice: Trading Account</strong><br><br>
+            <img src="screenshots/Trading.png" alt="Trading Account" width="350">
+        </td>
+        <td align="center" width="50%">
+            <strong>Backoffice: Assets Reconciliation</strong><br><br>
+            <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" width="350">
+        </td>
+    </tr>
 </table>
 
 <hr>
