@@ -163,13 +163,14 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 
 <hr>
 
-<h2>👨‍💻 Contributions</h2>
+<h2>👨‍💻 My Contributions (Solo Developer)</h2>
 <ul>
-    <li>Architected and developed <strong>role-based workflows</strong> across all four panels.</li>
-    <li>Implemented <strong>CRUD, service-order management, and AJAX-driven UI interactions</strong>.</li>
-    <li>Built <strong>invoice generation, payment tracking, and document management</strong> modules.</li>
-    <li>Contributed to <strong>financial computations, reconciliation, task workflows, and reporting</strong>.</li>
-    <li>Integrated <strong>QR/UPI payment support</strong> and <strong>Draft-to-Finalize lock</strong> mechanisms.</li>
+    <li><strong>End-to-End Solo Development:</strong> Architected and built the entire ERP system completely from scratch over a period of <strong>3.5 months</strong>.</li>
+    <li><strong>Full-Stack Architecture:</strong> Designed the complete database schema, implemented secure backend logic, and developed the 4-role RBAC panels.</li>
+    <li><strong>Core Feature Implementation:</strong> Built complex modules including invoice generation, payment tracking, financial computations, and AJAX-driven UI interactions.</li>
+    <li><strong>Testing &amp; Bug Fixing:</strong> Conducted rigorous end-to-end testing across all roles, identified edge-case bugs, and optimized the application for performance.</li>
+    <li><strong>Deployment:</strong> Successfully managed the deployment process to the live server and ensured production stability.</li>
+    <li><strong>Advanced Integrations:</strong> Independently integrated <strong>QR/UPI payment support</strong> and engineered the <strong>Draft-to-Finalize lock</strong> mechanism for financial security.</li>
 </ul>
 
 <hr>
