@@ -110,49 +110,55 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 
 <h2>🖼️ System Preview</h2>
 
-<table>
+<!-- Fixed Table Layout: 2 Columns Per Row -->
+<table width="100%" cellpadding="10" cellspacing="0">
     <tr>
-        <td align="center" width="50%">
-            <strong>Overall Diagram</strong>
-            <img src="screenshots/diagram.png" alt="overall diagram" width="350">
+        <td align="center" width="50%" valign="top">
+            <strong>Overall Diagram</strong><br><br>
+            <img src="screenshots/diagram.png" alt="Overall Diagram" width="350">
         </td>
-        <td align="center" width="50%">
+        <td align="center" width="50%" valign="top">
             <strong>Admin Dashboard</strong><br><br>
             <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" width="350">
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td align="center" width="50%" valign="top">
             <strong>Admin Service Selling</strong><br><br>
             <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" width="350">
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
+        <td align="center" width="50%" valign="top">
             <strong>Admin All Orders</strong><br><br>
             <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" width="350">
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td align="center" width="50%" valign="top">
             <strong>Marketing Dashboard</strong><br><br>
             <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" width="350">
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
+        <td align="center" width="50%" valign="top">
             <strong>Back Office Dashboard</strong><br><br>
             <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" width="350">
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td align="center" width="50%" valign="top">
             <strong>Client Dashboard</strong><br><br>
             <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
+        <td align="center" width="50%" valign="top">
             <strong>Backoffice: Trading Account</strong><br><br>
             <img src="screenshots/Trading.png" alt="Trading Account" width="350">
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td align="center" width="50%" valign="top">
             <strong>Backoffice: Assets Reconciliation</strong><br><br>
             <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" width="350">
+        </td>
+        <td align="center" width="50%" valign="top">
+            <!-- Empty cell to maintain symmetry -->
         </td>
     </tr>
 </table>
