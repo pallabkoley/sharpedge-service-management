@@ -113,6 +113,10 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 <table>
     <tr>
         <td align="center" width="50%">
+            <strong>Overall Diagram</strong>
+            <img src="screenshots/diagram.png" alt="overall diagram" width="350">
+        </td>
+        <td align="center" width="50%">
             <strong>Admin Dashboard</strong><br><br>
             <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" width="350">
         </td>
