@@ -110,55 +110,48 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 
 <h2>🖼️ System Preview</h2>
 
-<!-- Fixed Table Layout: 2 Columns Per Row -->
-<table width="100%" cellpadding="10" cellspacing="0">
+<!-- Perfectly filled 3-Column Grid Layout -->
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Overall Diagram</strong><br><br>
-            <img src="screenshots/diagram.png" alt="Overall Diagram" width="350">
+            <img src="screenshots/diagram.png" alt="Overall Diagram" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Admin Dashboard</strong><br><br>
-            <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" width="350">
+            <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Admin Service Selling</strong><br><br>
-            <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" width="350">
+            <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-        <td align="center" width="50%" valign="top">
+    </tr>
+    <tr>
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Admin All Orders</strong><br><br>
-            <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" width="350">
+            <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Marketing Dashboard</strong><br><br>
-            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" width="350">
+            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Back Office Dashboard</strong><br><br>
-            <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" width="350">
+            <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" style="width: 100%; max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Client Dashboard</strong><br><br>
-            <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
+            <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Backoffice: Trading Account</strong><br><br>
-            <img src="screenshots/Trading.png" alt="Trading Account" width="350">
+            <img src="screenshots/Trading.png" alt="Trading Account" style="width: 100%; max-width: 100%; height: auto;">
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="50%" valign="top">
+        <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Backoffice: Assets Reconciliation</strong><br><br>
-            <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" width="350">
-        </td>
-        <td align="center" width="50%" valign="top">
-            <!-- Empty cell to maintain symmetry -->
+            <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" style="width: 100%; max-width: 100%; height: auto;">
         </td>
     </tr>
 </table>
