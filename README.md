@@ -1,69 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SharpEdge – CA Firm Management System</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #24292e;
-        }
-        h1, h2, h3 {
-            border-bottom: 1px solid #e1e4e8;
-            padding-bottom: 0.3em;
-        }
-        h1 { font-size: 2em; }
-        h2 { font-size: 1.5em; }
-        h3 { font-size: 1.25em; }
-        ul { padding-left: 2em; }
-        li { margin-bottom: 0.25em; }
-        pre {
-            background-color: #f6f8fa;
-            padding: 16px;
-            overflow: auto;
-            border-radius: 6px;
-            font-size: 85%;
-        }
-        code {
-            font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 1px solid #e1e4e8;
-            border-radius: 4px;
-            margin: 10px 0;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-        a:hover { text-decoration: underline; }
-        hr {
-            border: 0;
-            border-top: 1px solid #e1e4e8;
-            margin: 24px 0;
-        }
-    </style>
-</head>
-<body>
+<h1 align="center">SharpEdge – CA Firm Management System</h1>
 
-<h1>SharpEdge – CA Firm Management System</h1>
-
-<p>A <strong>Laravel-based ERP</strong> for a <strong>Chartered Accountancy (CA) firm</strong> — managing clients, service sales, orders, invoices, payments, documents, staff tasks, and accounting operations through <strong>4 role-based panels</strong>.</p>
+<p align="center">
+A <strong>Laravel-based ERP</strong> for a <strong>Chartered Accountancy (CA) firm</strong> — managing clients, service sales, orders, invoices, payments, documents, staff tasks, and accounting operations through <strong>4 role-based panels</strong>.
+</p>
 
 <hr>
 
 <h2>🎯 Overview</h2>
 
-<p>SharpEdge digitizes the complete operational lifecycle of a CA firm — from <strong>service sale → order → document verification → task processing → financial computation → client delivery</strong> — replacing manual coordination across teams with a single traceable workflow.</p>
+<p>
+SharpEdge digitizes the complete operational lifecycle of a CA firm — from <strong>service sale → order → document verification → task processing → financial computation → client delivery</strong> — replacing manual coordination across teams with a single traceable workflow.
+</p>
 
-<p>Built with strict <strong>role-based access control (RBAC)</strong> so each panel (Admin, Marketing, Backoffice, Client) sees only what it needs.</p>
+<p>
+Built with strict <strong>role-based access control (RBAC)</strong> so each panel (Admin, Marketing, Backoffice, Client) sees only what it needs.
+</p>
 
 <hr>
 
@@ -117,16 +68,19 @@
 
 <h2>🔄 Business Flow</h2>
 
-<pre><code>Marketing          →  Admin              →  Backoffice           →  Client
+<pre>
+Marketing          →  Admin              →  Backoffice           →  Client
 ─────────────────────────────────────────────────────────────────────────────
 Client coord.        Document verify       Task processing         Order view
 Order create         Order/payment approve Financial compute     Invoice download
 Doc upload           Invoice generate      P&amp;L / Balance Sheet     Document upload
 Payment follow-up    Task assign           Reconciliation         Support ticket
                                            Report finalize         Meeting booking
-</code></pre>
+</pre>
 
-<p>Each stage is <strong>role-gated</strong>, creating a transparent, auditable workflow from sales to financial delivery.</p>
+<p>
+Each stage is <strong>role-gated</strong>, creating a transparent, auditable workflow from sales to financial delivery.
+</p>
 
 <hr>
 
@@ -156,38 +110,60 @@ Payment follow-up    Task assign           Reconciliation         Support ticket
 
 <h2>🖼️ System Preview</h2>
 
-<h3>Overall Diagram</h3>
-<p><img src="screenshots/diagram.png" alt="Overall Diagram"></p>
-
-<h3>Admin Dashboard</h3>
-<p><img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard"></p>
-
-<h3>Admin Service Selling</h3>
-<p><img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling"></p>
-
-<h3>Admin All Orders</h3>
-<p><img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders"></p>
-
-<h3>Marketing Dashboard</h3>
-<p><img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard"></p>
-
-<h3>Back Office Dashboard</h3>
-<p><img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard"></p>
-
-<h3>Client Dashboard</h3>
-<p><img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard"></p>
-
-<h3>Backoffice: Trading Account</h3>
-<p><img src="screenshots/Trading.png" alt="Trading Account"></p>
-
-<h3>Backoffice: Assets Reconciliation</h3>
-<p><img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation"></p>
+<table>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Overall Diagram</strong>
+            <img src="screenshots/diagram.png" alt="overall diagram" width="350">
+        </td>
+        <td align="center" width="50%">
+            <strong>Admin Dashboard</strong><br><br>
+            <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" width="350">
+        </td>
+        <td align="center" width="50%">
+            <strong>Admin Service Selling</strong><br><br>
+            <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" width="350">
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Admin All Orders</strong><br><br>
+            <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" width="350">
+        </td>
+        <td align="center" width="50%">
+            <strong>Marketing Dashboard</strong><br><br>
+            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" width="350">
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Back Office Dashboard</strong><br><br>
+            <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" width="350">
+        </td>
+        <td align="center" width="50%">
+            <strong>Client Dashboard</strong><br><br>
+            <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Backoffice: Trading Account</strong><br><br>
+            <img src="screenshots/Trading.png" alt="Trading Account" width="350">
+        </td>
+        <td align="center" width="50%">
+            <strong>Backoffice: Assets Reconciliation</strong><br><br>
+            <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" width="350">
+        </td>
+    </tr>
+</table>
 
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
 
-<p><strong>PHP</strong> · <strong>Laravel</strong> · <strong>MySQL</strong> · <strong>Blade</strong> · <strong>JavaScript</strong> · <strong>AJAX</strong> · <strong>jQuery</strong> · <strong>HTML</strong> · <strong>CSS</strong></p>
+<p>
+<strong>PHP</strong> · <strong>Laravel</strong> · <strong>MySQL</strong> · <strong>Blade</strong> · <strong>JavaScript</strong> · <strong>AJAX</strong> · <strong>jQuery</strong> · <strong>HTML</strong> · <strong>CSS</strong>
+</p>
 
 <hr>
 
@@ -205,7 +181,6 @@ Payment follow-up    Task assign           Reconciliation         Support ticket
 
 <h2>📌 Project Brochure</h2>
 
-<p>📑 <strong>Download:</strong> <a href="screenshots/CA-Brochure.pdf" target="_blank" rel="noopener noreferrer">Download CA Firm Brochure (PDF)</a></p>
-
-</body>
-</html>
+<p>
+📑 <strong>Download:</strong> <a href="screenshots/CA-Brochure.pdf" target="_blank">Download CA Firm Brochure (PDF)</a>
+</p>
