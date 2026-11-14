@@ -1,7 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SharpEdge – CA Firm Management System</title>
+</head>
+<body>
+
 <h1 align="center">SharpEdge – CA Firm Management System</h1>
 
 <p align="center">
-A <strong>Laravel-based ERP</strong> for a <strong>Chartered Accountancy (CA) firm</strong> — managing clients, service sales, orders, invoices, payments, documents, staff tasks, and accounting operations through <strong>4 role-based panels</strong>.
+    A <strong>Laravel-based ERP</strong> for a <strong>Chartered Accountancy (CA) firm</strong> — managing clients, service sales, orders, invoices, payments, documents, staff tasks, and accounting operations through <strong>4 role-based panels</strong>.
 </p>
 
 <hr>
@@ -9,11 +18,11 @@ A <strong>Laravel-based ERP</strong> for a <strong>Chartered Accountancy (CA) fi
 <h2>🎯 Overview</h2>
 
 <p>
-SharpEdge digitizes the complete operational lifecycle of a CA firm — from <strong>service sale → order → document verification → task processing → financial computation → client delivery</strong> — replacing manual coordination across teams with a single traceable workflow.
+    SharpEdge digitizes the complete operational lifecycle of a CA firm — from <strong>service sale → order → document verification → task processing → financial computation → client delivery</strong> — replacing manual coordination across teams with a single traceable workflow.
 </p>
 
 <p>
-Built with strict <strong>role-based access control (RBAC)</strong> so each panel (Admin, Marketing, Backoffice, Client) sees only what it needs.
+    Built with strict <strong>role-based access control (RBAC)</strong> so each panel (Admin, Marketing, Backoffice, Client) sees only what it needs.
 </p>
 
 <hr>
@@ -79,7 +88,7 @@ Payment follow-up    Task assign           Reconciliation         Support ticket
 </pre>
 
 <p>
-Each stage is <strong>role-gated</strong>, creating a transparent, auditable workflow from sales to financial delivery.
+    Each stage is <strong>role-gated</strong>, creating a transparent, auditable workflow from sales to financial delivery.
 </p>
 
 <hr>
@@ -113,44 +122,46 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 <table>
     <tr>
         <td align="center" width="50%">
-            <strong>Overall Diagram</strong>
-            <img src="screenshots/diagram.png" alt="overall diagram" width="350">
+            <strong>Overall Diagram</strong><br><br>
+            <img src="screenshots/diagram.png" alt="Overall system diagram" width="350">
         </td>
         <td align="center" width="50%">
             <strong>Admin Dashboard</strong><br><br>
             <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" width="350">
         </td>
+    </tr>
+    <tr>
         <td align="center" width="50%">
             <strong>Admin Service Selling</strong><br><br>
             <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" width="350">
         </td>
-    </tr>
-    <tr>
         <td align="center" width="50%">
             <strong>Admin All Orders</strong><br><br>
             <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" width="350">
         </td>
-        <td align="center" width="50%">
-            <strong>Marketing Dashboard</strong><br><br>
-            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" width="350">
-        </td>
     </tr>
     <tr>
+        <td align="center" width="50%">
+            <strong>Marketing Dashboard</strong><br><br>
+            <img src="screenshots/Marketing%20panel%20Dashboard.png" alt="Marketing Dashboard" width="350">
+        </td>
         <td align="center" width="50%">
             <strong>Back Office Dashboard</strong><br><br>
             <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" width="350">
         </td>
+    </tr>
+    <tr>
         <td align="center" width="50%">
             <strong>Client Dashboard</strong><br><br>
             <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" width="350">
         </td>
-    </tr>
-    <tr>
         <td align="center" width="50%">
             <strong>Backoffice: Trading Account</strong><br><br>
             <img src="screenshots/Trading.png" alt="Trading Account" width="350">
         </td>
-        <td align="center" width="50%">
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
             <strong>Backoffice: Assets Reconciliation</strong><br><br>
             <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" width="350">
         </td>
@@ -162,7 +173,7 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-<strong>PHP</strong> · <strong>Laravel</strong> · <strong>MySQL</strong> · <strong>Blade</strong> · <strong>JavaScript</strong> · <strong>AJAX</strong> · <strong>jQuery</strong> · <strong>HTML</strong> · <strong>CSS</strong>
+    <strong>PHP</strong> · <strong>Laravel</strong> · <strong>MySQL</strong> · <strong>Blade</strong> · <strong>JavaScript</strong> · <strong>AJAX</strong> · <strong>jQuery</strong> · <strong>HTML</strong> · <strong>CSS</strong>
 </p>
 
 <hr>
@@ -182,5 +193,9 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 <h2>📌 Project Brochure</h2>
 
 <p>
-📑 <strong>Download:</strong> <a href="screenshots/CA-Brochure.pdf" target="_blank">Download CA Firm Brochure (PDF)</a>
+    📑 <strong>Download:</strong>
+    <a href="screenshots/CA-Brochure.pdf" target="_blank" rel="noopener noreferrer">Download CA Firm Brochure (PDF)</a>
 </p>
+
+</body>
+</html>
