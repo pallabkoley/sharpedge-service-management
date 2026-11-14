@@ -110,48 +110,48 @@ Each stage is <strong>role-gated</strong>, creating a transparent, auditable wor
 
 <h2>🖼️ System Preview</h2>
 
-<!-- Perfectly filled 3-Column Grid Layout -->
+<!-- সব ছবি একই সাইজের বক্সে রাখার জন্য CSS Grid ও object-fit ব্যবহার করা হয়েছে -->
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Overall Diagram</strong><br><br>
-            <img src="screenshots/diagram.png" alt="Overall Diagram" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/diagram.png" alt="Overall Diagram" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Admin Dashboard</strong><br><br>
-            <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/Admin%20panel%20Dashboard.png" alt="Admin Dashboard" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Admin Service Selling</strong><br><br>
-            <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/Admin%20panel%20service%20selling.png" alt="Admin Service Selling" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Admin All Orders</strong><br><br>
-            <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/Admin%20Panel%20All%20orders.png" alt="Admin All Orders" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Marketing Dashboard</strong><br><br>
-            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/MaketingpanelDashbaord.png" alt="Marketing Dashboard" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Back Office Dashboard</strong><br><br>
-            <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/Backoffice%20Dashboard.png" alt="Back Office Dashboard" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Client Dashboard</strong><br><br>
-            <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/Client%20Dashboard.png" alt="Client Dashboard" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Backoffice: Trading Account</strong><br><br>
-            <img src="screenshots/Trading.png" alt="Trading Account" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/Trading.png" alt="Trading Account" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
         <td align="center" valign="top" style="width: 33.33%; padding: 15px;">
             <strong>Backoffice: Assets Reconciliation</strong><br><br>
-            <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" style="width: 100%; max-width: 100%; height: auto;">
+            <img src="screenshots/assests%20Reconcolation.png" alt="Assets Reconciliation" style="width: 100%; height: 250px; object-fit: contain; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 6px;">
         </td>
     </tr>
 </table>
